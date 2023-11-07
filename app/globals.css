@@ -25,9 +25,3 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
-.__next-auth-theme-auto {
-  .card {
-    border-radius: 1rem;
-    padding: 3rem 2rem;
-  }
-}
